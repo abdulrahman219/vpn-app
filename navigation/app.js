@@ -9,6 +9,8 @@ const Screens = createStackNavigator({
         navigationOptions: {
             title: 'Welcome Screen', // Add the title for the Welcome screen
         },
+
+        
     },
     VPN: {
         screen: VPN,
