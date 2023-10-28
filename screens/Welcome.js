@@ -12,6 +12,7 @@ class Welcome extends Component {
                 description: "Your data is secure with us.",
                 img: background.welcome,
             },
+            
             {
                 title: "Encrypted",
                 description: "We use top-notch encryption technology.",
